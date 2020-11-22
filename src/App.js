@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         > 
-          안녕하세요dd
+          안녕하세요 오늘은 11월 23일 입니다.
         </a>
       </header>
     </div>
